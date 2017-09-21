@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/taprosoft/dachser-libgdx/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f4c9301a61368ae20aaf2de7b5949dc77b557d2e">
+        <dex dex="/home/taprosoft/dachser-libgdx/android/build/intermediates/pre-dexed/debug/core-1.0-9d6438617d75ee531c7bc4cc01887df72d248dc2.jar" />
+    </item>
+
+</items>
